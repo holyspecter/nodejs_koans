@@ -1,0 +1,20 @@
+{
+  "name": "nodejs_koans",
+  "version": "0.0.1",
+  "description": "NodeJS Koans. Learning NodeJS by making tests passed.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "NodeJS",
+    "koans",
+    "tutorial"
+  ],
+  "author": "Roman Kliuchko",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^1.9.1",
+    "mocha": "^1.21.4"
+  }
+}
